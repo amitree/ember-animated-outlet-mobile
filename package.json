@@ -28,6 +28,6 @@
   "license": "MIT",
   "author": "Jake Craige <jake@poeticsystems.com>",
   "dependencies": {
-    "broccoli-static-compiler": "^0.1.4"
+    "broccoli-static-compiler": "^0.2.2"
   }
 }
